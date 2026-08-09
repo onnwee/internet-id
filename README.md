@@ -1112,3 +1112,7 @@ See [Public API Documentation](./docs/PUBLIC_API.md) for the complete v1 API ref
 ```
 
 ```
+
+## License
+
+Licensed under `GPL-3.0-or-later`. See [LICENSE](LICENSE).
